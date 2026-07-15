@@ -4,6 +4,8 @@ markers:
   front: []
   body:
   - {type: punctuation, offset: 0, content: 《, id: KR3ed047_jc_005-bkkpn1}
+  - {type: substitution, offset: 2, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
+  - {type: substitution, offset: 3, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 4, content: 》, id: KR3ed047_jc_005-bkkpn2}
   - {type: xml-element, offset: 13, content: '', id: KR3ed047_jc_005-d10.d2p2, name: p, role: open, attrs: {'xml:id': KR3ed047_jc_005-d10.d2p2}}
   - {type: 'tls:seg', offset: 13, content: '', id: KR3ed047_jc_005-d10.d2.p2s1}
@@ -266,6 +268,7 @@ markers:
   - {type: 'tls:seg', offset: 488, content: '', id: KR3ed047_jc_005-d10.d2.p10s8}
   - {type: punctuation, offset: 492, content: ，, id: KR3ed047_jc_005-bkkpn141}
   - {type: 'tls:seg', offset: 492, content: '', id: KR3ed047_jc_005-d10.d2.p10s9}
+  - {type: substitution, offset: 494, original: 菔, replacement: 蔔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19395}}
   - {type: punctuation, offset: 498, content: ；, id: KR3ed047_jc_005-bkkpn142}
   - {type: 'tls:seg', offset: 498, content: '', id: KR3ed047_jc_005-d10.d2.p10s10}
   - {type: punctuation, offset: 506, content: ，, id: KR3ed047_jc_005-bkkpn143}
@@ -527,4 +530,4 @@ markers:
   - {type: 'tls:seg-end', offset: 1021, content: '', id: KR3ed047_jc_005-d10.d2.p22s11_end, seg_type: comm}
   - {type: xml-element, offset: 1021, content: '', id: KR3ed047_jc_005-d10.d2p22_end, name: p, role: close, attrs: {'xml:id': KR3ed047_jc_005-d10.d2p22}}
   back: []
-hash: sha256:71286d5c78d4d44df7c62a38f3a80555e03c01a4726e115b5020f761766e3466
+hash: sha256:6b29e3b2737fa7fe6cd7d8df6caf1edcc893bcaa15a1dc918333b4b586db0fd3
