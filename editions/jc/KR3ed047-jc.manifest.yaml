@@ -21,9 +21,8 @@ assets:
   - {seq: 5, filename: KR3ed047_005-jc.yaml, hash: 'sha256:9c4d9c5f9e1cb1ff0d293625bce4fedc659855fb4b7c2529c3d38214db43b0c0'}
   - {seq: 0, filename: KR3ed047_000-jc.yaml, hash: 'sha256:fae1313aeb7bd7aee6e3898c9dee0b1626da51fcdb8be2a888c3d01f8210c8c8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed047_000-jc.markers.yaml, hash: 'sha256:ab4984ed22fa8ae77bc9bb4f6b78ae67d46ab6a183ed33204feca394752b2884'}
-  - {seq: 5, role: markers, filename: assets/KR3ed047_005-jc.markers.yaml, hash: 'sha256:884eace1cd0c41b72589a589c4472e530855e45b94ba48146954dc562d7fa8c1'}
-  - {seq: 0, role: markers, filename: assets/KR3ed047_000-jc.markers.yaml, hash: 'sha256:ab4984ed22fa8ae77bc9bb4f6b78ae67d46ab6a183ed33204feca394752b2884'}
+  - {seq: 0, role: markers, filename: assets/KR3ed047_000-jc.markers.yaml, hash: 'sha256:c9b0da0a8285cf43c1f4435b2fba43a06fc3c42014f4ae996626abddc25598bb'}
+  - {seq: 5, role: markers, filename: assets/KR3ed047_005-jc.markers.yaml, hash: 'sha256:036b7eae642a580efd081d617fcba40e7bd43b44c0896e620a0602baee25f1a3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1345,4 +1344,4 @@ table_of_contents:
   label: 二古今容量換算
   type: section
   level: 2
-hash: sha256:6dc8bfbeb8480b481cb3613e0f4cb21424ecaf21914374b56f8609dd63a77b49
+hash: sha256:620b15f7c9339f36d75f9f39ac606c019e5373800e40c537a01efbb9e9ab5f2e

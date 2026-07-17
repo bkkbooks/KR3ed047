@@ -21,8 +21,8 @@ assets:
   - {seq: 5, filename: KR3ed047_005.yaml, hash: 'sha256:cb787ecbc5d1d075ebd0cb404e74d072e7c5b8b9e56f6a8b0ba03998b7f525ed'}
   - {seq: 0, filename: KR3ed047_000.yaml, hash: 'sha256:ab1f3b033f23035bef251d1cba9f841d1059d7fcc70d1c3d9ca2120507223827'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed047_000.markers.yaml, hash: 'sha256:648a831810aa9c99ab3d240623f034301f50ec0508690d0bae8b2d2b984db8d9'}
-  - {seq: 5, role: markers, filename: assets/KR3ed047_005.markers.yaml, hash: 'sha256:6b29e3b2737fa7fe6cd7d8df6caf1edcc893bcaa15a1dc918333b4b586db0fd3'}
+  - {seq: 0, role: markers, filename: assets/KR3ed047_000.markers.yaml, hash: 'sha256:27ca8d9594f4bb87018e572c059c5bf32beae7f4b5f31237ac8093c88aaa6e93'}
+  - {seq: 5, role: markers, filename: assets/KR3ed047_005.markers.yaml, hash: 'sha256:11ea55d9b1f77f72e1ce199e35aec0878f9095477df9635eedcae95ac0002b7a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1344,7 +1344,7 @@ table_of_contents:
   label: 二古今容量換算
   type: section
   level: 2
-hash: sha256:8886e8b5f709b255c8dbb036c183c18cc0340f001600eef65a276149ee6c5d5d
+hash: sha256:5290b77d8db1c6579afc720a0990738896646ca4686731a0cbe149eb502887b9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
